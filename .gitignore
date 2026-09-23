@@ -1,0 +1,17 @@
+# Executables
+push_swap
+checker
+
+# Objs Directories
+objs
+objs_bonus
+
+# Debugger
+a.out.debug
+
+# Library
+libft.a
+
+# TXT files
+actions.txt
+args.txt
