@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="assets/push_swap.png" width="60%" alt="A_Maze_Ing">
+</p>
+
 <h3 align="center">
   <em>Because Swap_push doesn’t feel as natural</em>
 </h3>
